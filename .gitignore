@@ -1,0 +1,15 @@
+*.bbl
+*.nav
+*.out
+*.snm
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.toc
+*.xdv
+*.loe
+*.thm
+*.xdv
+run.xml
